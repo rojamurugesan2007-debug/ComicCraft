@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+storage/panels/*
+storage/exports/*
+storage/comics/*
+.idea/
+.vscode/
